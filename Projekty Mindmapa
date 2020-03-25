@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T20:18:19.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="udoxlefNtLeFYZibE93R" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T20:31:50.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="qGSTwGwt1OKGUn7irVbt" version="12.8.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1656" dy="3199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
@@ -206,6 +206,12 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;exitX=0.75;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-127" target="XKiu5Lfdv9hR786P4XVd-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-205" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-127" target="XKiu5Lfdv9hR786P4XVd-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-208" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-127" target="XKiu5Lfdv9hR786P4XVd-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-127" value="&lt;span style=&quot;white-space: normal&quot;&gt;NVP &lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;Defined&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="305" y="-1830" width="150" height="75" as="geometry" />
         </mxCell>
@@ -213,19 +219,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-129" value="NVP in FUFI&lt;br&gt;[Risk BR]" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="525" y="-1830" width="150" height="75" as="geometry" />
+          <mxGeometry x="751" y="-1830" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-131" target="XKiu5Lfdv9hR786P4XVd-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-131" value="NVP in WebExpert&lt;br&gt;[Risk BR]" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="-1830" width="150" height="75" as="geometry" />
+          <mxGeometry x="976" y="-1830" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-127" target="XKiu5Lfdv9hR786P4XVd-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-137" value="Consent Collection&lt;br&gt;contract ???" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-1830" width="150" height="75" as="geometry" />
+          <mxGeometry x="1246" y="-1830" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-139" target="XKiu5Lfdv9hR786P4XVd-143">
           <mxGeometry relative="1" as="geometry" />
@@ -233,20 +239,20 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-139" target="XKiu5Lfdv9hR786P4XVd-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-139" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="524" y="-2010" width="150" height="75" as="geometry" />
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-139" value="Check in ????&lt;br&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="750" y="-2010" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-141" value="Produktové &lt;br&gt;materály &lt;br&gt;pro klienty" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="-1727" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-143" value="&lt;span style=&quot;white-space: normal&quot;&gt;NVP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;in Thunder&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="-2010" width="150" height="75" as="geometry" />
+          <mxGeometry x="976" y="-2010" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-147" value="NVP&amp;nbsp;in Livelink" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="-2100" width="150" height="75" as="geometry" />
+          <mxGeometry x="976" y="-2100" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-149" value="Client Letters Templates" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="751" y="-1920" width="150" height="75" as="geometry" />
+          <mxGeometry x="977" y="-1920" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-152" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;(As-Is)&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="-1795" width="50" height="40" as="geometry" />
@@ -255,7 +261,7 @@
           <mxGeometry x="420" y="-1795" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-156" value="&lt;span&gt;WebExpert&amp;nbsp;&lt;br&gt;&lt;/span&gt;UX Refresh" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="751" y="-2190" width="150" height="75" as="geometry" />
+          <mxGeometry x="977" y="-2190" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-158" value="Where is some ??" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-1770" width="160" height="77" as="geometry" />
@@ -267,28 +273,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-159" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Arch. design&lt;br&gt;Business RQ&lt;br&gt;&lt;/span&gt;Phase 1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="-1600" width="150" height="75" as="geometry" />
+          <mxGeometry x="449.5" y="-1404" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-166" target="XKiu5Lfdv9hR786P4XVd-168">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-166" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Contracting &lt;br&gt;of Softip &lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="664.5" y="-1600" width="150" height="75" as="geometry" />
+          <mxGeometry x="674" y="-1404" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-168" target="XKiu5Lfdv9hR786P4XVd-170">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-168" value="Performance test of current &lt;br&gt;Garant instance" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="865" y="-1600" width="150" height="75" as="geometry" />
+          <mxGeometry x="874.5" y="-1404" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-170" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;support new &lt;br&gt;risk for ???&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1065" y="-1600" width="150" height="75" as="geometry" />
+          <mxGeometry x="1074.5" y="-1404" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-172" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="776" y="-1550" width="50" height="40" as="geometry" />
+          <mxGeometry x="785.5" y="-1354" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-173" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="560" y="-1550" width="50" height="40" as="geometry" />
+          <mxGeometry x="569.5" y="-1354" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-174" target="XKiu5Lfdv9hR786P4XVd-175">
           <mxGeometry relative="1" as="geometry" />
@@ -297,46 +303,93 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-174" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Arch. design&lt;br&gt;Business RQ&lt;br&gt;&lt;/span&gt;Phase 1" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="206" y="-1480" width="150" height="75" as="geometry" />
+          <mxGeometry x="215.5" y="-1284" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-175" target="XKiu5Lfdv9hR786P4XVd-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-175" value="Decide target ISG data model related to MA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="664.5" y="-1480" width="150" height="75" as="geometry" />
+          <mxGeometry x="674" y="-1284" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-177" value="ISG export ALL data to MA" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1065" y="-1480" width="150" height="75" as="geometry" />
+          <mxGeometry x="1074.5" y="-1284" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-187" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="980" y="-1550" width="50" height="40" as="geometry" />
+          <mxGeometry x="989.5" y="-1354" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-188" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="780" y="-1430" width="50" height="40" as="geometry" />
+          <mxGeometry x="789.5" y="-1234" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-189" value="May2020" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.plaque;dx=6;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1;labelPosition=center;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-1550" width="80" height="50" as="geometry" />
+          <mxGeometry x="1189.5" y="-1354" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-191" target="XKiu5Lfdv9hR786P4XVd-193">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-202" style="rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-191" target="XKiu5Lfdv9hR786P4XVd-201">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-191" value="NCS&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-weight: normal&quot;&gt;Sync. of MA, Garant &amp;amp; Stela&lt;br&gt;on UNIFIED identity&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="356" y="-1350" width="150" height="75" as="geometry" />
+          <mxGeometry x="365.5" y="-1154" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-193" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;ALL systems can wrk with unified agent identity&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="750" y="-1350" width="150" height="75" as="geometry" />
+          <mxGeometry x="759.5" y="-1154" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-195" target="XKiu5Lfdv9hR786P4XVd-191">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" target="XKiu5Lfdv9hR786P4XVd-191">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="247.5" y="-1116.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-195" value="NCS&amp;nbsp; &lt;span style=&quot;font-weight: normal&quot;&gt;Decide how &lt;br&gt;to connect data &lt;br&gt;MA - Garant - Stela&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="88" y="-1350" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-196" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="200" y="-1300" width="50" height="40" as="geometry" />
+          <mxGeometry x="209.5" y="-1104" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-200" value="Does NOT &lt;br&gt;include combined commissions&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=0;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="890" y="-1410" width="180" height="120" as="geometry" />
+          <mxGeometry x="899.5" y="-1214" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-201" value="SFDC Load updated list of agents from ISG" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF8000;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="599.5" y="-1044" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-203" value="Will be loaded &lt;br&gt;from SFTP" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="-1014" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-204" value="UW process Optimization" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="-1693" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-206" value="Expected&lt;br&gt;4/2020" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.plaque;dx=6;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-1960" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-207" value="UW data &lt;br&gt;available in NDP&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF3333;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="356" y="-1693" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-210" value="Legend" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#CCCCCC;gradientColor=none;fontSize=16;align=center;swimlaneFillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-2330" width="700" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-211" value="New Value Proposition &lt;br&gt;(NVP)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="520" y="117" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-212" value="New Commision System &lt;br&gt;(NCS)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="360" y="117" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-213" value="New Data &lt;br&gt;Platform &lt;br&gt;(NDP)" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF3333;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="190" y="117" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-214" value="STELA &lt;br&gt;TEAM&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF8000;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="20" y="117" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-215" value="CDDO&lt;br&gt;AML&lt;br&gt;ADF" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="20" y="32" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-216" value="OTHER" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="190" y="32" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-217" value="OPERATION" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFCCFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+          <mxGeometry x="360" y="32" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-220" value="Decisions&lt;br&gt;Comments" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="-2300" width="160" height="77" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
