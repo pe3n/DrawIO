@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-25T20:54:23.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="yVcN1ziKTF-mBDYCriSR" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-25T21:00:21.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="7PAx5_q3Ju_6rMt5xqKi" version="12.8.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2347" dy="3476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
@@ -218,15 +218,19 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-132" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-129" target="XKiu5Lfdv9hR786P4XVd-131">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-129" value="NVP in FUFI&lt;br&gt;[Risk BR]" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="751" y="-1830" width="150" height="75" as="geometry" />
-        </mxCell>
+        <UserObject label="NVP in FUFI&lt;br&gt;[Risk BR]" link="http://fufi/" id="XKiu5Lfdv9hR786P4XVd-129">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="751" y="-1830" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-131" target="XKiu5Lfdv9hR786P4XVd-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-131" value="NVP in WebExpert&lt;br&gt;[Risk BR]" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="976" y="-1830" width="150" height="75" as="geometry" />
-        </mxCell>
+        <UserObject label="NVP in WebExpert&lt;br&gt;[Risk BR]" link="https://webagent.aegon.cz/" id="XKiu5Lfdv9hR786P4XVd-131">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="976" y="-1830" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-127" target="XKiu5Lfdv9hR786P4XVd-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -248,9 +252,11 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-143" value="&lt;span style=&quot;white-space: normal&quot;&gt;NVP&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: normal&quot;&gt;in Thunder&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="976" y="-2010" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-147" value="NVP&amp;nbsp;in Livelink" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="976" y="-2100" width="150" height="75" as="geometry" />
-        </mxCell>
+        <UserObject label="NVP&amp;nbsp;in Livelink" link="http://cs1/" id="XKiu5Lfdv9hR786P4XVd-147">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="976" y="-2100" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-149" value="Client Letters Templates" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="977" y="-1920" width="150" height="75" as="geometry" />
         </mxCell>
@@ -260,9 +266,11 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-154" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="420" y="-1795" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-156" value="&lt;span&gt;WebExpert&amp;nbsp;&lt;br&gt;&lt;/span&gt;UX Refresh" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="977" y="-2190" width="150" height="75" as="geometry" />
-        </mxCell>
+        <UserObject label="&lt;span&gt;WebExpert&amp;nbsp;&lt;br&gt;&lt;/span&gt;UX Refresh" link="https://webagent.aegon.cz/" id="XKiu5Lfdv9hR786P4XVd-156">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="977" y="-2190" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-158" value="Where is some ??" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1570" y="-1760" width="160" height="77" as="geometry" />
         </mxCell>
@@ -385,7 +393,7 @@
             <mxGeometry x="20" y="117" width="150" height="75" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="CDDO&lt;br&gt;AML&lt;br&gt;ADF" link="https://srpacapp2004/tmtrack/tmtrack.dll?shell=swc#4" id="XKiu5Lfdv9hR786P4XVd-215">
+        <UserObject label="CDDO&lt;br&gt;AML&lt;br&gt;ADF" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-215">
           <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
             <mxGeometry x="20" y="32" width="150" height="75" as="geometry" />
           </mxCell>
@@ -395,9 +403,11 @@
             <mxGeometry x="190" y="32" width="150" height="75" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-217" value="OPERATION" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFCCFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
-          <mxGeometry x="360" y="32" width="150" height="75" as="geometry" />
-        </mxCell>
+        <UserObject label="OPERATION" link="https://podio.com/aegoncz/help-desk" id="XKiu5Lfdv9hR786P4XVd-217">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFCCFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="XKiu5Lfdv9hR786P4XVd-210">
+            <mxGeometry x="360" y="32" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-220" value="Decisions&lt;br&gt;Comments" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="-2300" width="160" height="77" as="geometry" />
         </mxCell>
