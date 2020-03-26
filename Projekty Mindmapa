@@ -1,17 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-03-26T07:29:48.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="1_c7i34-ppXLNg3k8m7-" version="12.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-26T08:48:34.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Xji_NepkG4QPEaaa9MoE" version="12.8.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2347" dy="3476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+    <mxGraphModel dx="3999" dy="3558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="2" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-376" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-375" target="XKiu5Lfdv9hR786P4XVd-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-375" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=21;align=left;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="-540" width="570" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-330" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#fff2cc;fontSize=21;align=left;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="3900" y="-1740" width="530" height="380" as="geometry" />
         </mxCell>
         <mxCell id="2" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;strong&gt;Process 1&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;System Study&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Preparation&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
           <mxGeometry x="351" y="117.5" width="110" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-364" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="3" target="XKiu5Lfdv9hR786P4XVd-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3" value="Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="361" y="7.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-363" value="Engineering" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="361" y="-132.5" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Investors" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="190" y="132.5" width="90" height="60" as="geometry" />
@@ -148,6 +160,9 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-138" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;fontStyle=1" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-131" target="XKiu5Lfdv9hR786P4XVd-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-336" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-131" target="XKiu5Lfdv9hR786P4XVd-334">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="NVP in WebExpert&lt;br&gt;[Risk BR]" link="https://webagent.aegon.cz/" id="XKiu5Lfdv9hR786P4XVd-131">
           <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
             <mxGeometry x="976" y="-1830" width="150" height="75" as="geometry" />
@@ -265,16 +280,13 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-193" value="NCS&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;ALL systems can wrk with unified agent identity&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="759.5" y="-1154" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" target="XKiu5Lfdv9hR786P4XVd-191">
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-199" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-195" target="XKiu5Lfdv9hR786P4XVd-191">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="247.5" y="-1116.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-195" value="NCS&amp;nbsp; &lt;span style=&quot;font-weight: normal&quot;&gt;Decide how &lt;br&gt;to connect data &lt;br&gt;MA - Garant - Stela&amp;nbsp;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#00CC00;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="88" y="-1350" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="XKiu5Lfdv9hR786P4XVd-196" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="209.5" y="-1104" width="50" height="40" as="geometry" />
+          <mxGeometry x="80" y="-1154" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-200" value="Does NOT &lt;br&gt;include combined commissions&amp;nbsp;&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=0;flipV=0;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="899.5" y="-1214" width="180" height="120" as="geometry" />
@@ -335,6 +347,11 @@
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-224" style="edgeStyle=none;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;endSize=16;strokeColor=#000000;fontSize=16;exitX=0.371;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;jumpSize=0;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-221" target="XKiu5Lfdv9hR786P4XVd-222">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-350" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1385" y="-530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XKiu5Lfdv9hR786P4XVd-221" value="" style="line;strokeWidth=2;direction=south;html=1;shadow=1;glass=0;labelBackgroundColor=none;fillColor=#FFCCFF;gradientColor=none;fontSize=16;align=center;" vertex="1" parent="1">
           <mxGeometry x="1380" y="-1935" width="10" height="985" as="geometry" />
@@ -706,6 +723,140 @@
         <mxCell id="XKiu5Lfdv9hR786P4XVd-333" value="Constrains&lt;br&gt;Dependencies" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#e1d5e7;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3250" y="-2262.5" width="150" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.276;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-334" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-334" value="Production data available in NDP&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF3333;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1085" y="-1695" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.732;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-337" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-337" value="Complaints&lt;br&gt;Process on Blue&lt;br&gt;tempoprarry ?????" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF8000;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-1251.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-339" value="POC SSO &lt;br&gt;to EWeb Expert" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF8000;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-1133.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.515;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-343" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Agent Journey &lt;br&gt;+ Data" link="https://dev.azure.com/NN-CZ/BUDP" id="XKiu5Lfdv9hR786P4XVd-343">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1490" y="-1465" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-349" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.833;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-344" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-344" value="Unified hotline" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FF8000;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1154.5" y="-1154" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-345" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="NN Web Information update" link="https://dev.azure.com/NN-CZ/BUDP" id="XKiu5Lfdv9hR786P4XVd-345">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1154.5" y="-1014" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-348" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.616;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-346" target="XKiu5Lfdv9hR786P4XVd-221">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-346" value="???&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#33FFFF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1490" y="-1366.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-352">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="-875.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Client Porta" link="https://dev.azure.com/NN-CZ/BUDP" id="XKiu5Lfdv9hR786P4XVd-352">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="1154.5" y="-913" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-354" value="Client portal &lt;br&gt;strategy ??&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=1;flipV=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1024.5" y="-875" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-355" value="Decide &lt;br&gt;what client portal &lt;br&gt;and how&lt;br&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#FFFF66;fontSize=16;align=center;flipH=1;flipV=0;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="962" y="-990" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-358" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-356" target="XKiu5Lfdv9hR786P4XVd-357">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-356" target="XKiu5Lfdv9hR786P4XVd-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="HL Arch CDDO&amp;nbsp;&lt;br&gt;Preparation for High risk ???&lt;br&gt;" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-356">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="90" y="-1030" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="AML, AFO Quick FIX" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-357">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="215" y="-827" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-362" value="A" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-359" target="XKiu5Lfdv9hR786P4XVd-361">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Definition of key areas/departures in AML checks" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-359">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-15" y="-817" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-361" target="XKiu5Lfdv9hR786P4XVd-365">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Approvals from key stakeholders" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-361">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="130" y="-640" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-365">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="-602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Implementation&amp;nbsp; to systems&amp;nbsp;" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-365">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="450" y="-640" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-196" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="-979" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-368" value="&lt;span&gt;Done&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;glass=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#FF6D57;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="455" y="-1094" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-369" value="Pilot&amp;nbsp; &lt;br&gt;???" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.plaque;dx=6;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-785.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-370" value="For new risk &lt;br&gt;BR product" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.plaque;dx=6;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1;labelPosition=center;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-770" width="102" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;font style=&quot;font-size: 22px&quot;&gt;AML&amp;nbsp;&lt;br&gt;2020&lt;/font&gt;" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-371">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="331" y="-450" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;span style=&quot;font-size: 22px&quot;&gt;GDPR Blue&lt;/span&gt;" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-373">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="535.5" y="-450" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-374" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fillColor=#99FF33;gradientColor=none;fontSize=21;align=left;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XKiu5Lfdv9hR786P4XVd-382" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;strokeColor=#000000;fontSize=21;" edge="1" parent="1" source="XKiu5Lfdv9hR786P4XVd-377" target="XKiu5Lfdv9hR786P4XVd-359">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Workflow definition &lt;br&gt;????" link="https://podio.com/aegoncz/aml-afo" id="XKiu5Lfdv9hR786P4XVd-377">
+          <mxCell style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#B266FF;shape=mxgraph.archimate3.application;archiType=rounded;shadow=1;glass=0;labelBackgroundColor=none;strokeWidth=2;fontSize=16;align=center;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
+            <mxGeometry x="-50" y="-1447.5" width="150" height="75" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
